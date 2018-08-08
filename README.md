@@ -13,7 +13,7 @@ Applications are now released and will be due Friday, August 31 at 11:59pm!
 
 
 ### Applications
-Applications(https://goo.gl/forms/HeMDeXb9tXzgz8aJ2) are due on Friday, August 31 at 11:59pm!
+Applications(https://tinyurl.com/apply-mld) are due on Friday, August 31 at 11:59pm!
 
 Before filling this form out, please finish the perquisite worksheet (https://tinyurl.com/mldprereq). We do not require that you are already familiar with this material (and we will not be checking answers), but do expect you to be comfortable looking things up and self learning this material. 
 
