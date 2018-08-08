@@ -7,9 +7,9 @@ This page, as well as the class Piazza page, will be the primary forms of commun
 Applications are now released and will be due Friday, August 31 at 11:59pm!
 
 ## Table of Contents
-[Applications](#applications)
-[Syllabus](#syllabus)
-[Calendar](https://calendar.google.com/calendar/embed?src=berkeley.edu_vn5f27ta1n7g9571rqpmeerv2g%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+1. [Applications](#applications)
+2. [Syllabus](#syllabus)
+3. [Calendar](https://calendar.google.com/calendar/embed?src=berkeley.edu_vn5f27ta1n7g9571rqpmeerv2g%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 
 ### Applications
