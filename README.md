@@ -4,7 +4,7 @@ Welcome to the Machine Learning Decal! In this course, you will discover how to 
 
 This page, as well as the class Piazza page, will be the primary forms of communication throughout the course. We will be posting all lectures and assignments here as the semester progresses. 
 
-[Applications](#applications) are now released and will be due **Friday, August 31 at 11:59pm**!
+[Applications](https://tinyurl.com/apply-mld) are now released and will be due **Friday, August 31 at 11:59pm**!
 
 ## Table of Contents
 1. [Applications](#applications)
