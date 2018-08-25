@@ -22,4 +22,4 @@ Just as a general reminder, please answer these questions as honestly as possibl
 
 ### Contact
 - Email: decal@ml.berkeley.edu
-- [Piazza page](piazza.com/berkeley/fall2018/cs198082)
+- [Piazza page](https://piazza.com/berkeley/fall2018/cs198082)
