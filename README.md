@@ -10,7 +10,8 @@ This page, as well as the class Piazza page, will be the primary forms of commun
 1. [Applications](#applications)
 2. [Syllabus](https://github.com/mlberkeley/Machine-Learning-Decal-Fall-2018/blob/master/MLD%20Syllabus%20Fall%202018.pdf)
 3. [Calendar](https://calendar.google.com/calendar/embed?src=berkeley.edu_vn5f27ta1n7g9571rqpmeerv2g%40group.calendar.google.com&ctz=America%2FLos_Angeles)
-4. [Contact](#contact)
+4. [Enrollment](#enrollment)
+5. [Contact](#contact)
 
 
 ### Applications
@@ -19,6 +20,9 @@ Applications(https://tinyurl.com/apply-mld) are due on **Friday, August 31 at 11
 Before filling this form out, please finish the perquisite worksheet (https://tinyurl.com/mldprereq). We do not require that you are already familiar with this material (and we will not be checking answers), but do expect you to be comfortable looking things up and self learning this material. 
 
 Just as a general reminder, please answer these questions as honestly as possible so we can make sure this class is a good fit for you.
+
+### Enrollment
+Please note that we do not have the administrative capacity for this semester to either accept concurrent enrollment students or waive time conflicts on CalCentral, and that we cannot make exceptions to this.
 
 ### Contact
 - Email: decal@ml.berkeley.edu
