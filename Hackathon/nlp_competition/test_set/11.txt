@@ -1,0 +1,8 @@
+Hey, please take a note.
+Buy three oranges.
+Take a note.
+Buy five apples.
+What note did I take about oranges?
+What note did I take about apples?
+Delete the note about apples.
+What was the last note I took?

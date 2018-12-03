@@ -1,0 +1,8 @@
+Please take a note.
+Buy one orange.
+Please take a note.
+Buy two oranges.
+What was my last note?
+Please take a note.
+Buy three oranges.
+What was my last note?
