@@ -1,8 +1,0 @@
-Hello, take a note.
-Buy one pear.
-Please take a note.
-Buy two apples.
-What was the first note that I took?
-What was the second note that I took?
-Please delete the first note that I took.
-What was my last note?
